@@ -1,0 +1,158 @@
+.main-login{
+  width: 1400px;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: 1400px 650px ;
+  object-fit: contain;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.conater{
+  width: 400px;
+  height: 350px;
+  text-align: center;
+  border-radius: 5px;
+}
+.conater select{
+  background-color: transparent;
+  width: 310px;
+  height: 35px;
+  color: rgb(129, 129, 129);
+  border: 1px solid whitesmoke;
+  font-size: 30px; 
+}
+.conater  h2{
+  font-size: 40px;
+  color: whitesmoke;
+  text-shadow: 2px 2px rgb(197, 193, 193);
+
+}
+.conater div p{
+  font-size: 20px;
+  color: rgb(202, 201, 201);
+
+}
+
+.conater div input{
+  background-color: transparent;
+  width: 300px;
+  height: 30px;
+  color: rgb(129, 129, 129);
+  border: 1px solid whitesmoke;
+  font-size: 30px;
+  padding-left: 10px;
+
+}
+.conater div button{
+  background-color: whitesmoke;
+  width: 200px;
+  height: 30px;
+  color: rgb(129, 129, 129);
+  border: 1px solid whitesmoke;
+ margin-top: 20px;
+}
+.conater button{
+  background-color: whitesmoke;
+  width: 200px;
+  height: 30px;
+  color: rgb(129, 129, 129);
+  border: 1px solid whitesmoke;
+ margin-top: 20px;
+}
+
+.main{
+  width: 1200px;
+  height: 600px;
+}
+
+
+.deshbordmain{
+  display: flex;
+  justify-content: space-between;
+}
+.left-buttons-div{
+  width: 20%;
+  height: 500px;
+  margin-top: 100px;
+  background-color:rgb(23,27,46);
+  /* display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly; */
+position: fixed;
+
+}
+.left-buttons-div div{
+  height: 170px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.dasboard-wrap{
+  /* background-color:rgb(23,27,46); */
+}
+.accutnttype-button{
+  width: 100px;
+  height: 40px;
+  background-color: whitesmoke;
+  color: black;
+  border-radius: 5px;
+}
+.head{
+  width: 1400px;
+  height: 600px;
+}
+.topd{
+  width: 1400px;
+  height: 100px;
+  position: fixed;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: rgb(79,65,109);
+}
+.topd h2{
+  width: 40%;
+  color: whitesmoke;
+  text-align: center;
+}
+.top{
+  width: 1350px;
+  height: 100px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: rgb(23,27,46);
+}
+.top h2{
+  width: 40%;
+  color: whitesmoke;
+  text-align: center;
+}
+
+.component-button{
+  width: 60%;
+  display: flex;
+  justify-content: space-evenly;
+}
+ .component-button button{
+  width: 100px;
+  height: 40px;
+  background-color: whitesmoke;
+  color: black;
+  border-radius: 5px;
+}
+
+
+.dataclass{
+  width: 80%;
+  margin-top: 100px;
+  margin-left: 270px;
+}
+.data{
+  background-color: rgba(202, 204, 206, 0.486);
+  padding-left: 20px;
+  border-radius: 5px;
+}
